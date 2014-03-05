@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://SleepInWind.github.io//github/sitemap.xml 
+Sitemap: http://SleepInWind.github.io/SleepInWind/sitemap.xml 

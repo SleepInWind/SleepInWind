@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[退藏于密]]></title>
-  <link href="http://SleepInWind.github.io/SleepInWind/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Sass | 退藏于密]]></title>
+  <link href="http://SleepInWind.github.io/SleepInWind/blog/categories/sass/atom.xml" rel="self"/>
   <link href="http://SleepInWind.github.io/SleepInWind/"/>
   <updated>2014-03-05T15:19:05+08:00</updated>
   <id>http://SleepInWind.github.io/SleepInWind/</id>

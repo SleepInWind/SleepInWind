@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://SleepInWind.github.io//github/blog/2014/03/05/test-first-article/</loc>
-        <lastmod>2014-03-05T14:44:13+08:00</lastmod>
+        <loc>http://SleepInWind.github.io/SleepInWind/blog/2014/03/05/test-first-article/</loc>
+        <lastmod>2014-03-05T14:56:43+08:00</lastmod>
     </url>
     <url>
-        <loc>http://SleepInWind.github.io//github/blog/archives/</loc>
-        <lastmod>2014-03-05T14:44:13+08:00</lastmod>
+        <loc>http://SleepInWind.github.io/SleepInWind/blog/archives/</loc>
+        <lastmod>2014-03-05T14:56:43+08:00</lastmod>
     </url>
     <url>
-        <loc>http://SleepInWind.github.io//github/</loc>
-        <lastmod>2014-03-05T14:44:13+08:00</lastmod>
+        <loc>http://SleepInWind.github.io/SleepInWind/</loc>
+        <lastmod>2014-03-05T14:56:43+08:00</lastmod>
     </url>
     <url>
-        <loc>http://SleepInWind.github.io//github/robots.txt</loc>
+        <loc>http://SleepInWind.github.io/SleepInWind/robots.txt</loc>
         <lastmod>2014-03-05T14:14:48+08:00</lastmod>
     </url>
 </urlset>
